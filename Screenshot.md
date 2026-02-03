@@ -1,3 +1,10 @@
+ Terraform Initialization
+ Terraform Plan Execution
+ Terraform Apply Command
+ EC2 Instance Created in AWS Console
+ EC2 Instance Details
+ Key Pair Configuration (us-east-1)
+ EC2 Instance Termination
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c26cb715-abdc-487b-9130-8324262aedac" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8ba973b-8b74-4813-94da-002c128d39b8" />
