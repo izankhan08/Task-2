@@ -20,6 +20,9 @@ Launch an AWS EC2 instance manually and using Terraform, and document the proces
 3. Used t2.micro
 4. Configured security group for SSH
 5. Successfully connected using SSH
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d573a66-7c46-44ad-b9e2-21d21f4cd21e" />
+
+
 
 ---
 
